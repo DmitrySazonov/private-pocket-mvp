@@ -1,4 +1,4 @@
-package com.pocket.privatepocket.storage;
+package com.pocket.privatepocketmvp.storage;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

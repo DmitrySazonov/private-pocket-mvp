@@ -1,4 +1,4 @@
-package com.pocket.privatepocket.storage;
+package com.pocket.privatepocketmvp.storage;
 
 import org.hibernate.annotations.GenericGenerator;
 

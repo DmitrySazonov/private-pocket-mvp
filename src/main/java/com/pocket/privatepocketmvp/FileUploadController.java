@@ -1,8 +1,8 @@
-package com.pocket.privatepocket;
+package com.pocket.privatepocketmvp;
 
-import com.pocket.privatepocket.storage.FileDB;
-import com.pocket.privatepocket.storage.FileStorageService;
-import com.pocket.privatepocket.storage.ResponseFile;
+import com.pocket.privatepocketmvp.storage.FileDB;
+import com.pocket.privatepocketmvp.storage.FileStorageService;
+import com.pocket.privatepocketmvp.storage.ResponseFile;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.MediaType;
 import org.springframework.http.ResponseEntity;

@@ -1,4 +1,4 @@
-package com.pocket.privatepocket.storage;
+package com.pocket.privatepocketmvp.storage;
 
 public class ResponseMessage {
   private String message;

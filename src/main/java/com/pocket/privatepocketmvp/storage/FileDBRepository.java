@@ -1,4 +1,4 @@
-package com.pocket.privatepocket.storage;
+package com.pocket.privatepocketmvp.storage;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
